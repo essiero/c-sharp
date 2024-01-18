@@ -1,0 +1,15 @@
+/Users/estherschlotterbeck/Prime/Tier3/c-sharp/CsharpProjects/TestProject/bin/Debug/net6.0/TestProject
+/Users/estherschlotterbeck/Prime/Tier3/c-sharp/CsharpProjects/TestProject/bin/Debug/net6.0/TestProject.deps.json
+/Users/estherschlotterbeck/Prime/Tier3/c-sharp/CsharpProjects/TestProject/bin/Debug/net6.0/TestProject.runtimeconfig.json
+/Users/estherschlotterbeck/Prime/Tier3/c-sharp/CsharpProjects/TestProject/bin/Debug/net6.0/TestProject.dll
+/Users/estherschlotterbeck/Prime/Tier3/c-sharp/CsharpProjects/TestProject/bin/Debug/net6.0/TestProject.pdb
+/Users/estherschlotterbeck/Prime/Tier3/c-sharp/CsharpProjects/TestProject/obj/Debug/net6.0/TestProject.csproj.AssemblyReference.cache
+/Users/estherschlotterbeck/Prime/Tier3/c-sharp/CsharpProjects/TestProject/obj/Debug/net6.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/estherschlotterbeck/Prime/Tier3/c-sharp/CsharpProjects/TestProject/obj/Debug/net6.0/TestProject.AssemblyInfoInputs.cache
+/Users/estherschlotterbeck/Prime/Tier3/c-sharp/CsharpProjects/TestProject/obj/Debug/net6.0/TestProject.AssemblyInfo.cs
+/Users/estherschlotterbeck/Prime/Tier3/c-sharp/CsharpProjects/TestProject/obj/Debug/net6.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/estherschlotterbeck/Prime/Tier3/c-sharp/CsharpProjects/TestProject/obj/Debug/net6.0/TestProject.dll
+/Users/estherschlotterbeck/Prime/Tier3/c-sharp/CsharpProjects/TestProject/obj/Debug/net6.0/refint/TestProject.dll
+/Users/estherschlotterbeck/Prime/Tier3/c-sharp/CsharpProjects/TestProject/obj/Debug/net6.0/TestProject.pdb
+/Users/estherschlotterbeck/Prime/Tier3/c-sharp/CsharpProjects/TestProject/obj/Debug/net6.0/TestProject.genruntimeconfig.cache
+/Users/estherschlotterbeck/Prime/Tier3/c-sharp/CsharpProjects/TestProject/obj/Debug/net6.0/ref/TestProject.dll
